@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "emtiidigital/website-emtii-digital",
+    "description": "emtii digital website",
+    "keywords": ["website", "emtii"],
     "license": "MIT",
     "type": "project",
     "require": {
